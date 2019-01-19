@@ -7,3 +7,5 @@ foo
 bar
 
 baz
+
+more changes
