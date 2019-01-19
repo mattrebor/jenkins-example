@@ -3,3 +3,5 @@
 Now we can write our actual README file.
 
 foo
+
+bar
